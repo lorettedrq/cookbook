@@ -1,2 +1,3 @@
 # cookbook
-A collaborative editing exercise for the 2018 GIT class
+
+A collaborative editing exercise for the 2025 GIT class at IPGP
